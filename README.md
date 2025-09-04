@@ -2,7 +2,7 @@ Purpose of this project: Creating my own version of ChatGPT Copilot or Amazon Q 
 
 ## How it works:
 
-1. Accespts a coding task (e.g. "strings aren't splitting in my app.. Please fix")
+1. Accepts a coding task (e.g. "strings aren't splitting in my app.. Please fix")
 2. Chooses from a set of predefined functions to work on the task.
    - Scan the files in a directory
    - Readd a file's contents
@@ -19,4 +19,4 @@ Purpose of this project: Creating my own version of ChatGPT Copilot or Amazon Q 
 
 ## Takeaways:
 
-1.
+1. Make sure to write good (readable) error messages because LLM is also learning from it.
