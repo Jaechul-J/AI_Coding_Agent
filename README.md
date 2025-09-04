@@ -20,3 +20,4 @@ Purpose of this project: Creating my own version of ChatGPT Copilot or Amazon Q 
 ## Takeaways:
 
 1. Make sure to write good (readable) error messages because LLM is also learning from it.
+2. System prompt sets the tone for the conversation, and can be used to set the personality of the AI, set the "rules" for the conversation, etc.
