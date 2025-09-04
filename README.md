@@ -21,3 +21,4 @@ Purpose of this project: Creating my own version of ChatGPT Copilot or Amazon Q 
 
 1. Make sure to write good (readable) error messages because LLM is also learning from it.
 2. System prompt sets the tone for the conversation, and can be used to set the personality of the AI, set the "rules" for the conversation, etc.
+3. LLM doesn't call a function I've created in functions folder. Rather, we tell LLM which functions are available. LLM is a decision-making engine, but I'm still the one running the code.
